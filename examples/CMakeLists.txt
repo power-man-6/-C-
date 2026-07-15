@@ -1,0 +1,2 @@
+add_executable(threadpool_example main.cpp)
+target_link_libraries(threadpool_example threadpool)
